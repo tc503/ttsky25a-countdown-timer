@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = project.v
+PROJECT_SOURCES = tt_um_tc503_countdown_timer.v countdown_timer.v clock_divider.v debounce.v encoder.v pwm.v seven_segment.v
 
 ifneq ($(GATES),yes)
 

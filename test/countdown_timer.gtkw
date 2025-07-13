@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Sun Jul 13 07:32:59 2025
+[*]
+[dumpfile] "/home/ubuntu/ttsky25a-countdown-timer/test/tb.vcd"
+[dumpfile_mtime] "Sun Jul 13 06:49:02 2025"
+[dumpfile_size] 1854527
+[savefile] "/home/ubuntu/ttsky25a-countdown-timer/test/countdown_timer.gtkw"
+[timestart] 50029500000
+[size] 1000 600
+[pos] -20 11
+*-25.479301 50051900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 297
+[signals_width] 160
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@28
+tb.clk
+tb.enc0_a
+tb.enc0_b
+tb.pwm0_out
+tb.countdown0
+@800022
+tb.dis0_out[6:0]
+@29
+(0)tb.dis0_out[6:0]
+@28
+(1)tb.dis0_out[6:0]
+(2)tb.dis0_out[6:0]
+(3)tb.dis0_out[6:0]
+(4)tb.dis0_out[6:0]
+(5)tb.dis0_out[6:0]
+(6)tb.dis0_out[6:0]
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
